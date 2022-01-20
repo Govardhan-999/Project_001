@@ -1,6 +1,6 @@
 # Project_001
 project 1 social media like facebook on web
-This Project is like facebook and here you have to implement 2 module 
+This Project is like facebook and here i have implemented 2 module 
 a. user module which consist following sub module
  1. sign up 
  2. sign in 
@@ -20,9 +20,11 @@ a. user module which consist following sub module
  3. view report about active user entire project push from eclipse to github.
   from github to jenkins for CI, from jenkins to dockerhub,
    from dockerhub to aws. project must consist html,java script, css, ajax, servlet, mail api, maven, jdbc, tomcat , github, jenkins, docker.
- ========================
+ 
  desc facebooktimelinelive;
+  
  Name                                      Null?    Type
+ 
  ----------------------------------------- -------- ----------------------------
  TIMELINEID                                NOT NULL NUMBER(19)
  DISLIKE                                            VARCHAR2(255)
